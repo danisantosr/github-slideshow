@@ -2,6 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-¡Hola GitHub!
+# Esto es un título
+## Ahora el subtítulo
 
 Use the left arrow to go back!
